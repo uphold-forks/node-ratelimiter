@@ -9,7 +9,9 @@
     "limiter",
     "limit"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "microtime": "^2.1.2"
+  },
   "devDependencies": {
     "ioredis": "1.15.1",
     "mocha": "*",
